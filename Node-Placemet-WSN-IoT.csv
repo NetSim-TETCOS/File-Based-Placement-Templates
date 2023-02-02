@@ -1,6 +1,0 @@
-# Template for MANETs file based placement strategy,,,
-# Device Name,Device Type,X,Y
-Temperature,SENSOR,100,100
-Humidity,SENSOR,200,100
-Body-Sensor,SENSOR,100,200
-Touch,SINKNODE,200,200

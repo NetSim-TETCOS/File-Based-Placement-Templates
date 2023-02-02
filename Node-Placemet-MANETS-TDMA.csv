@@ -1,6 +1,0 @@
-# Template for MANETs file based placement strategy,,,
-# Device Name,Device Type,X,Y
-Laptop,WIRELESSNODE,100,100
-Mobile,WIRELESSNODE,200,100
-Node,WIRELESSNODE,100,200
-Wireless Node,WIRELESSNODE,200,200
